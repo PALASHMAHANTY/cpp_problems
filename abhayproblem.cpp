@@ -49,7 +49,7 @@ int main(){
         subarray[d][p+1]=key;
 
         }
-        std::cout<<"the sorted subarray is: ";
+        std::cout<<"the sorted subarray is:  ";
         std::cout<<" {";
         for(p=0;p<=e;p++)
         {
